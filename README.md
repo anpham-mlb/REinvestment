@@ -1,8 +1,8 @@
-The purpose of the project is to help those who want to explore the price of the real estate market in Melbourne from 2016 - 2020. The dataset scraped from various websites were properties that are on market/off market at the time of the project starts. Through the dataset, people are likely to select properties based on some criteria such as number of floor area, number of rooms, number of parking spaces,...
+## The purpose of the project is to help those who want to explore the price of the real estate market in Melbourne from 2016 - 2020. The dataset scraped from various websites were properties that are on market/off market at the time of the project starts. Through the dataset, people are likely to select properties based on some criteria such as number of floor area, number of rooms, number of parking spaces,...
 
-After the dataset was cleaned, they will be put on Tableau to make visualisation.
+## After the dataset was cleaned, they will be put on Tableau to make visualisation.
 
-Before running codes, it should be necessary to check the Chrome driver version on the computer. Then, Chrome driver with the respective version should be downloaded and put it on Python folder. At the time scraping data, Chrome version 87 was used (ChromeDriver 87.0.4280.88).
+## Before running codes, it should be necessary to check the Chrome driver version on the computer. Then, Chrome driver with the respective version should be downloaded and put it on Python folder. At the time scraping data, Chrome version 87 was used (ChromeDriver 87.0.4280.88).
 
 ### Step 1: Scraped Melbourne property dataset from websites
 - Got the Melbourne suburb dataset from https://en.wikipedia.org/wiki/List_of_Melbourne_suburbs -> [Mel] Wiki_suburbs.csv
